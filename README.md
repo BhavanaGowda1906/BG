@@ -1,4 +1,6 @@
 Hi there, I'm Bhavana Gowda!!
+https://img.shields.io/badge/any_text-you_like-blue
+
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -38,5 +40,4 @@ Hi there, I'm Bhavana Gowda!!
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <h3>My GitHub contributions summary</h3>
-
 
